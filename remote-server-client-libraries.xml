@@ -1,0 +1,50 @@
+<application>
+  <component name="RemoteServerClientLibraries">
+    <client-library id="docker">
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/jackson-jaxrs-json-provider-2.1.2.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/jackson-annotations-2.1.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/jackson-module-jaxb-annotations-2.1.2.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/jersey-apache-connector-2.11.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/commons-logging-1.1.3.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/javax.annotation-api-1.2.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/docker-java-0.10.5.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/jackson-core-2.1.2.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/javax.ws.rs-api-2.0.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/osgi-resource-locator-1.0.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/httpcore-4.3.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/aopalliance-repackaged-2.3.0-b05.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/hk2-api-2.3.0-b05.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/javax.inject-2.3.0-b05.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/jersey-client-2.11.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/unix-socket-factory-2014-11-16T14-41-27.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/hk2-locator-2.3.0-b05.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/xz-1.2.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/jersey-guava-2.11.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/commons-compress-1.5.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/commons-lang-2.6.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/hk2-utils-2.3.0-b05.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/jnr-unixsocketdo-0.3.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/commons-codec-1.8.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/httpclient-4.3.1.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/commons-io-2.3.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/asm-4.0.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/asm-commons-4.0.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/asm-analysis-4.0.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/asm-tree-4.0.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/jffi-1.2.7.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/asm-util-4.0.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/jnr-enxio-0.4.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/jersey-common-2.11.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/jnr-x86asm-1.0.2.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/jul-to-slf4j-1.7.5.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/slf4j-api-1.7.5.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/javassist-3.18.1-GA.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/jnr-constants-0.8.4.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/bcpkix-jdk15on-1.51.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/jackson-databind-2.1.2.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/jnr-ffi-1.0.3.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/guava-18.0.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea14-EAP/system/remote-server-libraries/docker/bcprov-jdk15on-1.51.jar" />
+    </client-library>
+  </component>
+</application>

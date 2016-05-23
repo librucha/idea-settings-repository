@@ -1,0 +1,82 @@
+<templateSet group="librucha.cz">
+  <template name="todo" value="// TODO: $END$" description="TODO mark" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="true" />
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+      <option name="CSS_RULESET_LIST" value="true" />
+      <option name="CSS" value="true" />
+      <option name="SQL" value="true" />
+      <option name="ColdFusion" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="GROOVY" value="true" />
+      <option name="GROOVY_EXPRESSION" value="true" />
+      <option name="GROOVY_STATEMENT" value="true" />
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="MAVEN" value="true" />
+      <option name="ASPECTJ" value="true" />
+      <option name="ACTION_SCRIPT" value="true" />
+      <option name="MXML" value="true" />
+      <option name="CoffeeScript" value="true" />
+      <option name="JSP" value="true" />
+      <option name="OGNL" value="true" />
+      <option name="HAML" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="fix" value="// FIXME: $END$" description="FIXME mark" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="true" />
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+      <option name="CSS_RULESET_LIST" value="true" />
+      <option name="CSS" value="true" />
+      <option name="SQL" value="true" />
+      <option name="ColdFusion" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="GROOVY" value="true" />
+      <option name="GROOVY_EXPRESSION" value="true" />
+      <option name="GROOVY_STATEMENT" value="true" />
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="MAVEN" value="true" />
+      <option name="ASPECTJ" value="true" />
+      <option name="ACTION_SCRIPT" value="true" />
+      <option name="MXML" value="true" />
+      <option name="CoffeeScript" value="true" />
+      <option name="JSP" value="true" />
+      <option name="OGNL" value="true" />
+      <option name="HAML" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="noinst" value="private $CLASS$() {&#10;    throw new AssertionError(&quot;No &quot; + getClass().getName() + &quot; instances for you!&quot;);&#10;}" description="Private constructor with Assertion error" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

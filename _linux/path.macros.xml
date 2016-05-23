@@ -1,0 +1,8 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="MAVEN_REPOSITORY" value="/home/librucha/.m2/repository" />
+    <macro name="MAVEN_REPO" value="/home/librucha/.m2/repository" />
+    <macro name="JBOSS_HOME" value="/home/librucha/projects/artin/tmobile/sdp/portal/jboss/jboss-4.2.3.GA" />
+    <macro name="KOTLIN_BUNDLED" value="/opt/idea/idea-IU-144.3891.8/plugins/Kotlin/kotlinc" />
+  </component>
+</application>

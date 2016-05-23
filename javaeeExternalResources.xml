@@ -1,0 +1,11 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.2" location="$USER_HOME$/.IntelliJIdea14-EAP/system/extResources/48b8f268_assembly-1.1.2.xsd" />
+    <resource url="http://plugins.intellij.net/plugin.dtd" location="$USER_HOME$/.IntelliJIdea14-EAP/system/extResources/c6e15c82_plugin.dtd" />
+    <resource url="http://www.audatex.cz/audanext/cases" location="$USER_HOME$/projects/audatex/AudaNext/dev/audanext-core/audanext-core-parent/core-cases-parent/core-cases-api/src/main/xsd/case.xsd" />
+    <resource url="http://www.audatex.cz/audanext/claim" location="$USER_HOME$/projects/audatex/AudaNext/dev/audanext-core/audanext-core-parent/core-cases-parent/core-cases-api/src/main/xsd/case.xsd" />
+    <resource url="http://www.audatex.cz/audanext/members" location="$USER_HOME$/projects/audatex/AudaNext/dev/audanext-core/audanext-core-parent/core-members-parent/core-members-api/src/main/xsd/member.xsd" />
+    <resource url="http://www.audatex.cz/audanext/types" location="$USER_HOME$/projects/audatex/AudaNext/dev/audanext-core/audanext-core-parent/core-types-api/src/main/xsd/audanext_types.xsd" />
+    <resource url="http://www.w3.org/1999/XSL/Format" location="$USER_HOME$/.IntelliJIdea14-EAP/system/extResources/741852a8_Format.xml" />
+  </component>
+</application>

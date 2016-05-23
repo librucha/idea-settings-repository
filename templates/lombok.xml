@@ -1,0 +1,7 @@
+<templateSet group="lombok">
+  <template name="lnnset" value="@lombok.Setter(onMethod = @__(@lombok.NonNull))" description="Lombok NonNull setter" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

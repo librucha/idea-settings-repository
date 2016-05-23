@@ -1,0 +1,11 @@
+<application>
+  <component name="MavenServices">
+    <service-url>http://oss.sonatype.org/service/local/</service-url>
+    <service-url>http://repo.jfrog.org/artifactory/api/</service-url>
+    <service-url>https://repository.jboss.org/nexus/service/local/</service-url>
+    <service-url>https://repository.liferay.com/nexus/content/groups/liferay-ce/</service-url>
+    <service-url>https://repo.spring.io/libs-release</service-url>
+    <service-url>http://projectlombok.org/mavenrepo</service-url>
+    <service-url>http://artifactory.audatex.cz/artifactory/repo</service-url>
+  </component>
+</application>

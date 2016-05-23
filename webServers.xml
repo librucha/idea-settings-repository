@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="69c0a1eb-9e54-49cf-94ad-36f0335d600a" name="localhost" url="http://localhost:8080">
+        <fileTransfer mountedRoot="$USER_HOME$/projects/audatex/AudaNext/srv/apache-tomcat-8.0.15/webapps" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="library-invalid-classes-path(library:application:org.osgi.core-5.0.0)" />
+      <problem id="library-invalid-source-javadoc-path(library:application:org.osgi.core-5.0.0)" />
+    </ignored-problems>
+  </component>
+</application>
+

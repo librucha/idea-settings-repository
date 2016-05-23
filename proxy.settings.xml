@@ -1,0 +1,7 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="superproxy.tmdev" />
+    <option name="PROXY_PORT" value="3128" />
+    <option name="PROXY_EXCEPTIONS" value="localhost,localhost.*,10.254.*,10.253.*,127.0.0.*,192.168.*" />
+  </component>
+</application>

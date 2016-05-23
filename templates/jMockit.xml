@@ -1,0 +1,19 @@
+<templateSet group="jMockit">
+  <template name="tested" value="@mockit.Tested&#10;private $CLASS$ $END$;" description="Create tested field with annotation" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="mocked" value="@mockit.Mocked&#10;@mockit.Injectable&#10;private $CLASS$ $END$;" description="Create mocked field with annotation" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="exs" value="new mockit.StrictExpectations (){{&#10;    $END$&#10;}};" description="Create new StrictExpectations class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

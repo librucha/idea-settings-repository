@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="stubbed_responses/auth-service-organization-client/get-organization/00000000-0000-0000-0000-000000000001.json" type="PLAIN_TEXT" />
+      <mapping ext="lombok" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping pattern="repository-config" type="XML" />
+    </extensionMap>
+  </component>
+</application>

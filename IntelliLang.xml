@@ -1,0 +1,13 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <option name="INSTRUMENTATION" value="ASSERT" />
+    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
+    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
+    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
+    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="Bash" injector-id="java">
+      <display-name>Matchers.jsonError (cz.audatex.audanext.test.matcher)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("jsonError").withParameters("java.lang.Number", "java.lang.CharSequence").definedInClass("cz.audatex.audanext.test.matcher.Matchers"))]]></place>
+    </injection>
+  </component>
+</application>

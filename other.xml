@@ -1,0 +1,500 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/projects/artin/tmobile/sdp/eclipse/eclipse_formatting_SDP.xml" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="8080" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="TIMEOUT" value="10" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+    <option name="SHOW_PATH" value="true" />
+  </component>
+  <component name="Error Report Configurable">
+    <option name="JIRA_LOGIN" value="" />
+    <option name="JIRA_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_JIRA_PASSWORD" value="false" />
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="librucha" />
+    <option name="ITN_PASSWORD_CRYPT" value="b3JhN21lY2k=" />
+    <option name="KEEP_ITN_PASSWORD" value="true" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="GwtSdkManager">
+    <gwt-sdk-list>
+      <gwt-sdk url="file://$MAVEN_REPO$/com/vaadin/vaadin-client/7.1.8" />
+    </gwt-sdk-list>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/bin/node">
+      <version-cache version="6.1.0" last-modified="1462494937000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="6.1.0" last-modified="1462494937000" />
+    </local-interpreter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/bin/node" version="6.1.0" last-modified="1462494937000" />
+    <node-interpreter path="/bin/node" version="6.1.0" last-modified="1462494937000" />
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="entitySuffix" value="VO" />
+    <option name="ENTITY_SUFFIX" value="VO" />
+    <option name="ADD_TO_UNIT" value="true" />
+  </component>
+  <component name="PropertiesRefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS" value="true" />
+  </component>
+  <component name="PropertiesSeparatorManager">
+    <file url="file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/portal/sdf/integrationtestdata/integrationtest.sdf.paymentmethod.paiaxispaymentmethod.properties" separator="\u005f" />
+    <file url="file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/cml/cml-common-test/src/main/resources/cml.deployment.properties" separator="\u002e" />
+    <file url="resourceBundle:file:///home/librucha/projects/librucha.cz/broadleaf/DemoSite/admin/src/main/resources/messages-admin" separator="\u002e" />
+    <file url="resourceBundle:jar:///home/librucha/.m2/repository/org/hibernate/hibernate-validator/4.3.1.Final/hibernate-validator-4.3.1.Final.jar!/org/hibernate/validator/ValidationMessages" separator="\u002e" />
+    <file url="file://$USER_HOME$/projects/librucha.cz/lamer-parser/src/main/resources/config.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/portal/sdp/config/setup/servers.properties" separator="\u002e" />
+    <file url="resourceBundle:jar:///home/librucha/.m2/repository/org/apache/cxf/cxf-rt-frontend-jaxrs/3.0.1/cxf-rt-frontend-jaxrs-3.0.1.jar!/META-INF/spring" separator="\u002f" />
+    <file url="file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/northbound/mcb/mcb/src/config/template/standard/install/mcb.deployment.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/spi/spiext/src/main/resources/spi-ext.deployment.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/db/mysql-portal/sdf/properties/default.properties" separator="\u002d" />
+    <file url="file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/db/mysql-portal/sdf/properties/prod.properties" separator="\u002d" />
+    <file url="file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/db/mysql-portal/sdf/properties/test.properties" separator="\u002d" />
+    <file url="file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/portal/sdp/config/setup/config-common/conf/sql/bcd.mysql.statements.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/db/mysql-portal/sdf/properties/prgen12.properties" separator="\u002d" />
+    <file url="file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/rea/rea/src/config/filter/bza.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/northbound/mcb/mcb/src/test/resources/mcb.deployment.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/rea/rea/src/main/resources/deployment.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/portal/sdp/config/setup/config-portal-platform/conf/sql/sdf.mysql.statements.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/portal/sdp/config/setup/config-portal-platform/conf/sql/prs.mysql.statements.properties" separator="\u002e" />
+  </component>
+  <component name="PsiViewer.Settings">
+    <option name="HIGHLIGHT_COLOR" value="162 3 229 32" />
+    <option name="PLUGIN_ENABLED" value="true" />
+  </component>
+  <component name="PsiViewerSettings">
+    <option name="dialect" value="Language: JAVA" />
+    <option name="blockRefDividerLocation" value="572" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://www.artin.cz">
+      <option name="apiType" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfdfdfdcdf9bdfe1dfc3dfcfdfd9df93</password>
+      <option name="jiraVersion" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>londrusek</username>
+    </JIRA>
+    <JIRA shared="false" url="http://jira.audatex.cz">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfe0dfc5dfdedffcdfcbdf9c</password>
+      <option name="jiraVersion" value="6.3.10" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="project = AC AND issuetype in standardIssueTypes() AND status = &quot;To Do&quot; AND assignee in (EMPTY, currentUser()) AND Sprint = &quot;Sprint 12&quot; ORDER BY priority DESC" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>londrusek</username>
+    </JIRA>
+    <JIRA shared="false" url="http://jira.devtools.cz.tmo">
+      <option name="apiType" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfdcdfc7dfe4dfdbdfcbdf9ddfccdf99</password>
+      <option name="jiraVersion" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="project = SDP AND issuetype = Subtask-DEV" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>libor.ondrusek</username>
+    </JIRA>
+    <GitHub shared="false" url="http://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df9ddf9cdf9bdfc8df9adfcfdfcedf98df98df9fdf98df98dfcedf92df92df9ddf9cdf9edfcbdf9edfcfdf99df9fdf9adf9adfcbdf9ddf98df9edfc8df99df92df92df9cdf9bdf93dfc8df9ddfcedf9b</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="librucha" />
+      <option name="repoName" value="tree" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="librucha" />
+      <username />
+    </GitHub>
+    <JIRA shared="false" url="https://jira.audatex.cz">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfe0dfc5dfdedffcdfcbdf9c</password>
+      <option name="jiraVersion" value="6.3.10" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>londrusek</username>
+    </JIRA>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="RooConfiguration" rooHome="/opt/springsource/spring-roo/latest" />
+  <component name="SelectProjectTemplateSettings">
+    <option name="EXPERT_MODE" value="true" />
+    <option name="LAST_TEMPLATE" value="Java/Java" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://svn.tmdev/sdp" />
+        <option value="http://svn.tmdev/sdp/sdpapi/branches/SDPAPI_9999/sdp-api" />
+        <option value="http://svn.tmdev/sdp/sdpapi/branches/SDPAPI_9950/sdp-api" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="/usr/bin/svn" />
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="http://svn.tmdev/sdp/cml/branches/CML_10000">
+          <value>
+            <set>
+              <option value="$USER_HOME$/projects/artin/tmobile/sdp/src-10000/cml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.tmdev/sdp/cml/branches/CML_14100">
+          <value>
+            <set>
+              <option value="$USER_HOME$/projects/artin/tmobile/sdp/repo/cml-14100" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.tmdev/sdp/cml/branches/CML_14201">
+          <value>
+            <set>
+              <option value="$USER_HOME$/projects/artin/tmobile/sdp/src/cml-14201" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.tmdev/sdp/cml/branches/CML_14300">
+          <value>
+            <set>
+              <option value="$USER_HOME$/projects/artin/tmobile/sdp/src-14300/cml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.tmdev/sdp/cml/branches/CML_9999">
+          <value>
+            <set>
+              <option value="$USER_HOME$/projects/artin/tmobile/sdp/src-9999/cml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.tmdev/sdp/mysql-cml/branches/MYSQL_CML_9999">
+          <value>
+            <set>
+              <option value="$USER_HOME$/projects/artin/tmobile/sdp/src-9999/db/mysql-cml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.tmdev/sdp/mysql-pit/branches/MYSQL_PIT_9999">
+          <value>
+            <set>
+              <option value="$USER_HOME$/projects/artin/tmobile/sdp/src-9999/db/mysql-pit" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.tmdev/sdp/mysql-portal/branches/MYSQL_PORTAL_9999">
+          <value>
+            <set>
+              <option value="$USER_HOME$/projects/artin/tmobile/sdp/src-9999/db/mysql-portal" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.tmdev/sdp/mysql-sdpapi/branches/MYSQL_SDPAPI_9999">
+          <value>
+            <set>
+              <option value="$USER_HOME$/projects/artin/tmobile/sdp/src-9999/db/mysql-sdpapi" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.tmdev/sdp/portal/branches/PORTAL_9999">
+          <value>
+            <set>
+              <option value="$USER_HOME$/projects/artin/tmobile/sdp/src-9999/portal" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.tmdev/sdp/sdpapi/branches/SDPAPI_90000/sdp-api">
+          <value>
+            <set>
+              <option value="$USER_HOME$/projects/artin/tmobile/sdp/src-90000/sdp-api" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.tmdev/sdp/spicommon/branches/SPICOMMON_14201">
+          <value>
+            <set>
+              <option value="$USER_HOME$/projects/artin/tmobile/sdp/src/spi-14201/spicommon-14201" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.tmdev/sdp/spiext/branches/SPIEXT_14201">
+          <value>
+            <set>
+              <option value="$USER_HOME$/projects/artin/tmobile/sdp/src/spi-14201/spiext-14201" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.tmdev/sdp/spiext/branches/SPIEXT_9999">
+          <value>
+            <set>
+              <option value="$USER_HOME$/projects/artin/tmobile/sdp/src-9999/spi/spiext" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="Compiler (errors)" />
+        <option value="Compiler (success)" />
+        <option value="Maven" />
+        <option value="TestRunner" />
+        <option value="VCS Commit" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="$USER_HOME$/projects/audatex/AudaNext/dev">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/projects/audatex/AudaNext/dev" />
+  </component>
+  <component name="WebServicesPluginSettings" SelectedPlatform="CXF" SelectedBinding="JAXB 2.0" PathToXFire="/opt/apache/cxf/latest">
+    <StubPackage>tmsdp.cml.api.payment</StubPackage>
+    <StubPackage>com.librucha.test.jaxb</StubPackage>
+    <StubPackage>test</StubPackage>
+    <StubPackage>mypackage</StubPackage>
+    <StubUrl>file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/cml/cml-api/src/main/resources/schema/Payment.wsdl</StubUrl>
+    <StubUrl>file://$USER_HOME$/projects/librucha.cz/cxf/api/src/main/resources/wsdl/server.wsdl</StubUrl>
+    <StubUrl>file://$USER_HOME$/projects/artin/tmobile/sdp/repo/spi-9999/spicommons-9999/spi-notification-api/src/main/resources/wsdl/ServiceProviderInterfaceInboundSubscriptionNotification_10.wsdl</StubUrl>
+    <StubUrl>file://$USER_HOME$/projects/artin/tmobile/sdp/repo/sdpapi-9999/sdp-api-internal/src/main/resources/schema/FaultMessage.wsdl</StubUrl>
+    <StubUrl>file://$USER_HOME$/projects/artin/tmobile/sdp/repo/sdpapi-9999/sdp-api-internal/src/main/resources/schema/Authorization.wsdl</StubUrl>
+    <JAXBUrl>file://$USER_HOME$/projects/artin/tmobile/sdp/src-9999/cml/cml-api/src/main/resources/schema/Payment.xsd</JAXBUrl>
+    <JAXBUrl>file:///tmp/jaxb/src/main/resources/Special.xsd</JAXBUrl>
+    <JAXBUrl>file:///tmp/jaxb/src/main/resources/Notification.xsd</JAXBUrl>
+    <JAXBUrl>file://$USER_HOME$/projects/artin/tmobile/sdp/repo/cml-14100/cml-api/src/main/resources/schema/Fault.xsd</JAXBUrl>
+    <JAXBUrl>file://$USER_HOME$/projects/artin/tmobile/sdp/repo/sdpapi-9999/sdp-api-internal/src/main/resources/schema/Authorization.xsd</JAXBUrl>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="Enum Singleton" />
+            <item index="1" class="java.lang.String" itemvalue="Bean" />
+            <item index="2" class="java.lang.String" itemvalue="Singleton" />
+            <item index="3" class="java.lang.String" itemvalue="UML Class" />
+            <item index="4" class="java.lang.String" itemvalue="UML Component" />
+            <item index="5" class="java.lang.String" itemvalue="Configuration Bean" />
+            <item index="6" class="java.lang.String" itemvalue="UML Activity" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <resource url="urn:jboss:domain:osgi:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-osgi_1_0.xsd" />
+    <resource url="http://camel.apache.org/schema/cxf/camel-cxf-2.12.0-blueprint.xsd" location="$USER_HOME$/.IntelliJIdea13/system/extResources/a1dba29e_camel-cxf-2.12.0-blueprint.xsd" />
+    <resource url="urn:jboss:domain:osgi:1.2" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-osgi_1_2.xsd" />
+    <resource url="urn:jboss:domain:messaging:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-messaging_1_1.xsd" />
+    <resource url="urn:jboss:domain:osgi:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-osgi_1_1.xsd" />
+    <resource url="urn:jboss:domain:mail:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-mail_1_0.xsd" />
+    <resource url="urn:jboss:ejb-client:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-ejb-client_1_0.xsd" />
+    <resource url="urn:jboss:domain:remoting:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-remoting_1_1.xsd" />
+    <resource url="urn:jboss:ejb-client:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-ejb-client_1_1.xsd" />
+    <resource url="urn:jboss:domain:remoting:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-remoting_1_0.xsd" />
+    <resource url="urn:jboss:domain:messaging:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-messaging_1_0.xsd" />
+    <resource url="urn:jboss:domain:weld:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-weld_1_0.xsd" />
+    <resource url="urn:jboss:domain:web:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-web_1_0.xsd" />
+    <resource url="urn:jboss:domain:web:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-web_1_1.xsd" />
+    <resource url="urn:jboss:domain:naming:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-naming_1_1.xsd" />
+    <resource url="urn:jboss:domain:ee:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-ee_1_0.xsd" />
+    <resource url="urn:jboss:domain:naming:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-naming_1_0.xsd" />
+    <resource url="urn:jboss:pojo:7.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-pojo_7_0.xsd" />
+    <resource url="http://aries.apache.org/blueprint/xmlns/blueprint-cm/v1.1.0" location="$USER_HOME$/.IntelliJIdea13/system/extResources/3b9e2c0b_v1.1.0.xml" />
+    <resource url="urn:jboss:domain:datasources:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-datasources_1_0.xsd" />
+    <resource url="urn:jboss:cli:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-cli_1_0.xsd" />
+    <resource url="urn:jboss:domain:jsr77:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-jsr77_1_0.xsd" />
+    <resource url="http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd" location="$USER_HOME$/.IntelliJIdea13/system/extResources/ba563890_portlet-app_2_0.xsd" />
+    <resource url="urn:jboss:domain:logging:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-logging_1_1.xsd" />
+    <resource url="urn:jboss:domain:logging:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-logging_1_0.xsd" />
+    <resource url="urn:jboss:domain:cmp:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-cmp_1_0.xsd" />
+    <resource url="http://camel.apache.org/schema/blueprint" location="$USER_HOME$/.IntelliJIdea13/resources/schemas/blueprint/camel-blueprint.xsd" />
+    <resource url="urn:jboss:domain:configadmin:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-configadmin_1_0.xsd" />
+    <resource url="urn:jboss:domain:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-config_1_1.xsd" />
+    <resource url="urn:jboss:domain:1.2" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-config_1_2.xsd" />
+    <resource url="urn:jboss:domain:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-config_1_0.xsd" />
+    <resource url="urn:jboss:domain:jaxr:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-jaxr_1_1.xsd" />
+    <resource url="urn:jboss:domain:jaxr:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-jaxr_1_0.xsd" />
+    <resource url="urn:jboss:domain:threads:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-threads_1_0.xsd" />
+    <resource url="urn:jboss:domain:threads:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-threads_1_1.xsd" />
+    <resource url="urn:jboss:domain:jdr:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-jdr_1_0.xsd" />
+    <resource url="urn:jboss:domain:security:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-security_1_0.xsd" />
+    <resource url="urn:jboss:domain:jacorb:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-jacorb_1_0.xsd" />
+    <resource url="urn:jboss:domain:jmx:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-jmx_1_1.xsd" />
+    <resource url="urn:jboss:domain:xts:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-xts.xsd" />
+    <resource url="urn:jboss:domain:jacorb:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-jacorb_1_1.xsd" />
+    <resource url="urn:jboss:domain:jmx:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-jmx_1_0.xsd" />
+    <resource url="http://www.liferay.com/dtd/liferay-look-and-feel_6_2_0.dtd" location="$USER_HOME$/.IntelliJIdea13/system/extResources/fab1cc3a_liferay-look-and-feel_6_2_0.dtd" />
+    <resource url="http://cc.cprm.tmobile.de/services/CPRM/Contract/ContractReadServices/getContractFlatrateInfo" location="$USER_HOME$/projects/artin/tmobile/sdp/src-9999/spi/spiext/src/main/resources/carmen-de-profile/getContractFlatrateInfo.wsdl" />
+    <resource url="urn:jboss:domain:jpa:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-jpa_1_0.xsd" />
+    <resource url="urn:jboss:domain:security:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-security_1_1.xsd" />
+    <resource url="urn:jboss:domain:sar:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-sar_1_0.xsd" />
+    <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd" location="$USER_HOME$/.IntelliJIdea13/system/extResources/7752ceb7_blueprint.xsd" />
+    <resource url="http://maven.apache.org/xsd/settings-1.1.0.xsd" location="$USER_HOME$/.IntelliJIdea13/system/extResources/d9da5963_settings-1.1.0.xsd" />
+    <resource url="urn:jboss:service:7.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-service_7_0.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.IntelliJIdea13/system/extResources/9b192256_xml.xsd" />
+    <resource url="urn:jboss:domain:pojo:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-pojo_1_0.xsd" />
+    <resource url="http://www.liferay.com/dtd/liferay-friendly-url-routes_6_2_0.dtd" location="$USER_HOME$/.IntelliJIdea13/system/extResources/94ca7d7a_liferay-friendly-url-routes_6_2_0.dtd" />
+    <resource url="urn:jboss:domain:modcluster:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-mod-cluster_1_0.xsd" />
+    <resource url="http://plugins.intellij.net/revu/ns/revu_1_0.xsd" location="$USER_HOME$/file:/home/librucha/.IntelliJIdea13/config/plugins/revu.jar!/org/sylfra/idea/plugins/revu/resources/schemas/revu_1_0.xsd" />
+    <resource url="urn:jboss:domain:jca:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-jca_1_0.xsd" />
+    <resource url="http://www.liferay.com/dtd/liferay-portlet-app_6_2_0.dtd" location="$USER_HOME$/.IntelliJIdea13/system/extResources/8940ab7e_liferay-portlet-app_6_2_0.dtd" />
+    <resource url="urn:jboss:domain:ejb3:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-ejb3_1_0.xsd" />
+    <resource url="urn:jboss:domain:transactions:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-txn_1_0.xsd" />
+    <resource url="urn:jboss:domain:ejb3:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-ejb3_1_1.xsd" />
+    <resource url="urn:jboss:domain:transactions:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-txn_1_1.xsd" />
+    <resource url="urn:jboss:messaging-deployment:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-messaging-deployment_1_0.xsd" />
+    <resource url="urn:jboss:domain:ejb3:1.2" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-ejb3_1_2.xsd" />
+    <resource url="urn:jboss:domain:jgroups:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-jgroups_1_1.xsd" />
+    <resource url="urn:jboss:domain:jaxrs:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-jaxrs_1_0.xsd" />
+    <resource url="urn:jboss:domain:infinispan:1.2" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-infinispan_1_2.xsd" />
+    <resource url="urn:jboss:domain:deployment-scanner:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-deployment-scanner_1_0.xsd" />
+    <resource url="urn:jboss:domain:infinispan:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-infinispan_1_1.xsd" />
+    <resource url="urn:jboss:domain:deployment-scanner:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-deployment-scanner_1_1.xsd" />
+    <resource url="urn:jboss:domain:infinispan:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-infinispan_1_0.xsd" />
+    <resource url="urn:jboss:domain:jgroups:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-jgroups_1_0.xsd" />
+    <resource url="urn:jboss:domain:resource-adapters:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-resource-adapters_1_0.xsd" />
+    <resource url="http://www.liferay.com/dtd/liferay-hook_6_2_0.dtd" location="$USER_HOME$/.IntelliJIdea13/system/extResources/b7ca6f95_liferay-hook_6_2_0.dtd" />
+    <resource url="urn:jboss:domain:webservices:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-webservices_1_1.xsd" />
+    <resource url="http://www.liferay.com/dtd/liferay-display_6_2_0.dtd" location="$USER_HOME$/.IntelliJIdea13/system/extResources/c59ce2f2_liferay-display_6_2_0.dtd" />
+    <resource url="http://cxf.apache.org/schemas/configuration/cxf-beans.xsd" location="$USER_HOME$/.IntelliJIdea13/system/extResources/5b196030_cxf-beans.xsd" />
+    <resource url="urn:jboss:domain:jca:1.1" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-jca_1_1.xsd" />
+    <resource url="http://www.liferay.com/dtd/liferay-service-builder_6_2_0.dtd" location="$USER_HOME$/.IntelliJIdea13/system/extResources/f82e0273_liferay-service-builder_6_2_0.dtd" />
+    <resource url="urn:jboss:jbossws-jaxws-config:4.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jbossws-jaxws-config_4_0.xsd" />
+    <resource url="urn:jboss:domain:webservices:1.0" location="$USER_HOME$/var/server-runtimes/jboss-as-7.1.1.Final/docs/schema/jboss-as-webservices_1_0.xsd" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="tapestry:parameter" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Trim space" HIGHLIGHT_MODE="BY_WORD" />
+</application>

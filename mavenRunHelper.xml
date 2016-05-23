@@ -1,0 +1,87 @@
+<application>
+  <component name="MavenRunHelper">
+    <option name="goals">
+      <Goals>
+        <option name="goals">
+          <list>
+            <Goal>
+              <option name="commandLine" value="clean" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean compile" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean compile -DskipTests" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean generate-sources" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install -DskipTests" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean package -DskipTests" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean verify" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="versions:set versions:commit" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="versions:update-properties versions:commit" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="swagger2markup:process-swagger" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="versions:update-properties versions:commit -DallowSnapshots" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="versions:set versions:commit -T0" />
+            </Goal>
+          </list>
+        </option>
+      </Goals>
+    </option>
+    <option name="pluginAwareGoals">
+      <Goals>
+        <option name="goals">
+          <list>
+            <Goal>
+              <option name="commandLine" value="jetty:run" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="tomcat:run" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="tomcat5:run" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="tomcat6:run" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="tomcat7:run" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="spring-boot:run" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="versions:set" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="versions:commit" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="versions:update-properties" />
+            </Goal>
+          </list>
+        </option>
+      </Goals>
+    </option>
+    <option name="version" value="1" />
+  </component>
+</application>

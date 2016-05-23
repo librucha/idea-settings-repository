@@ -1,0 +1,8 @@
+<templateSet group="assertJ">
+  <template name="exception" value="try {&#10;&#9;$SELECTION$&#10;&#9;org.assertj.core.api.Assertions.failBecauseExceptionWasNotThrown($CLASS$.class);&#10;} catch ($CLASS$ e) {&#10;&#9;org.assertj.core.api.Assertions.assertThat(e).hasMessage(&quot;$END$&quot;);&#10;}" description="Block for catch exception in tests" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
